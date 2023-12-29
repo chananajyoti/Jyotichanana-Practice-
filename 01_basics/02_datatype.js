@@ -6,3 +6,4 @@ console.log(age)
 console.log(loginid)
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
